@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc6d4d2c-1c5e-417e-8040-ccbade5350b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZplOiNd5XhBXmxKn5ZdqPjCxNG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc6d4d2c-1c5e-417e-8040-ccbade5350b7" name="Default Changelist" comment="" />
+      <created>1585543888328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585543888328</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="676" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1585543900357">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="676" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1585543900357" />
+    <state x="673" y="27" width="683" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585626241414">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="673" y="27" width="683" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1585626241414" />
+    <state x="769" y="41" width="501" height="720" key="refactoring.ChangeSignatureDialog" timestamp="1585619936155">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="769" y="41" width="501" height="720" key="refactoring.ChangeSignatureDialog/0.27.1366.741@0.27.1366.741" timestamp="1585619936155" />
+    <state x="683" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585568905335">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="683" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1585568905335" />
+  </component>
+</project>
